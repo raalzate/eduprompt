@@ -1,0 +1,23 @@
+{
+  "name": "proyect-01",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3000",
+    "build": "next build",
+    "start": "next start",
+    "lint": "echo \"(opcional)\""
+  },
+  "dependencies": {
+    "next": "14.2.5",
+    "next-pwa": "5.6.0",
+    "react": "18.3.1",
+    "react-collapse": "^5.1.1",
+    "react-dom": "18.3.1",
+    "react-markdown": "^10.1.0"
+  },
+  "devDependencies": {
+    "@types/react": "19.1.10",
+    "typescript": "5.9.2"
+  }
+}
