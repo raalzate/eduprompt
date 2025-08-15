@@ -1,14 +1,12 @@
+## 📄 **Propuesta Económica – Uso de GPT-4o-mini para Contenido Educativo en Programación**
+
 * Modelo: **gpt-4o-mini**
 * Precio: **0.0003 USD / 1 000 tokens entrada**, **0.0006 USD / 1 000 tokens salida**
 * Caso de uso: interacción tipo *prompt educativo largo* como el de tu ejemplo (≈ 50 tokens entrada + ≈ 550 tokens salida)
 * Costo por interacción: **0.000345 USD**
 * 50 preguntas por usuario al mes
 
----
-
-## 📄 **Propuesta Económica – Uso de GPT-4o-mini para Contenido Educativo en Programación**
-
-**Objetivo:** Proveer a los usuarios material educativo personalizado sobre programación en inglés, con significado en español y guía de pronunciación, incluyendo ejemplos prácticos.
+**Objetivo:** Proveer a los usuarios contenido educativo personalizado en diversos temas escolar, generado por inteligencia artificial, que incluya explicaciones claras, ejemplos prácticos y, cuando corresponda, guías de pronunciación o recursos complementarios, optimizando así la experiencia de aprendizaje y adaptándose al nivel y necesidades de cada persona. 
 
 ---
 
