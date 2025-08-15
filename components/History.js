@@ -47,7 +47,7 @@ export default function History() {
               </div>
             </button>
             <Collapse isOpened={isOpened}>
-              <div style={{ fontSize: 12, marginTop: 8, marginLeft: 10}}>
+              <div style={{ fontSize: 14, marginTop: 8, marginLeft: 10}}>
                 <strong>Respuesta:</strong>
                 <Markdown >
                   {it.answer}
